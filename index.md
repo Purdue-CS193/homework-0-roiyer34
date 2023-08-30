@@ -4,7 +4,7 @@
 
 - The class is a comfortable place to actually learn about useful CS tools
 - The class is low stress
-- The homework is usefull but not just busywork
+- The homework is useful but not just busywork
 
 ## Welcome to GitHub Pages
 
