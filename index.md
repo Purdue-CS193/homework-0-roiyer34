@@ -1,3 +1,11 @@
+# Rohan's First CS193 Homework
+
+## List of things I like about CS193
+
+- The class is a comfortable place to actually learn about useful CS tools
+- The class is low stress
+- The homework is usefull but not just busywork
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
